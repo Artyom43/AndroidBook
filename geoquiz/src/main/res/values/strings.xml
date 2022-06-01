@@ -13,4 +13,8 @@
     <string name="next_button">next</string>
     <string name="back_button_accessibility">Previous question</string>
     <string name="next_button_accessibility">Next question</string>
+    <string name="warning_text">Are you sure you want tot do this?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="cheat_button">Cheat</string>
+    <string name="judgement_toast">Cheating is wrong.</string>
 </resources>

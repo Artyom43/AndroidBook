@@ -3,6 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="criminalintent/src/main/res/drawable/ic_flag.xml" value="0.117" />
+        <entry key="criminalintent/src/main/res/layout/activity_main.xml" value="0.192481884057971" />
+        <entry key="criminalintent/src/main/res/layout/fragment_crime.xml" value="0.192481884057971" />
+        <entry key="criminalintent/src/main/res/layout/fragment_crime_list.xml" value="0.1" />
+        <entry key="criminalintent/src/main/res/layout/list_item_crime.xml" value="0.287569567437708" />
+        <entry key="geoquiz/src/main/res/layout/activity_cheat.xml" value="0.18490374873353596" />
         <entry key="geoquiz/src/main/res/layout/activity_main.xml" value="0.3591485507246377" />
       </map>
     </option>

@@ -44,8 +44,8 @@
             android:layout_height="wrap_content"
             android:layout_marginHorizontal="2dp"
             android:background="@color/design_default_color_primary"
-            android:src="@drawable/ic_arrow_back"
-            android:contentDescription="@string/back_button_accessibility"/>
+            android:contentDescription="@string/back_button_accessibility"
+            android:src="@drawable/ic_arrow_back" />
 
         <ImageButton
             android:id="@+id/next_button"
@@ -53,9 +53,16 @@
             android:layout_height="wrap_content"
             android:layout_marginHorizontal="2dp"
             android:background="@color/design_default_color_primary"
-            android:src="@drawable/ic_arrow_next"
-            android:contentDescription="@string/next_button_accessibility"/>
+            android:contentDescription="@string/next_button_accessibility"
+            android:src="@drawable/ic_arrow_next" />
 
     </LinearLayout>
+
+    <Button
+        android:id="@+id/cheat_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:text="@string/cheat_button" />
 
 </LinearLayout>
