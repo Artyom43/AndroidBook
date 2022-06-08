@@ -16,3 +16,5 @@ rootProject.name = "AndroidBook"
 include ':app'
 include ':geoquiz'
 include ':criminalintent'
+include ':petdagger'
+include ':dagger2'

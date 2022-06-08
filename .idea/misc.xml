@@ -8,8 +8,11 @@
         <entry key="criminalintent/src/main/res/layout/fragment_crime.xml" value="0.192481884057971" />
         <entry key="criminalintent/src/main/res/layout/fragment_crime_list.xml" value="0.1" />
         <entry key="criminalintent/src/main/res/layout/list_item_crime.xml" value="0.287569567437708" />
+        <entry key="criminalintent/src/main/res/menu/fragment_crime_list.xml" value="0.3802083333333333" />
+        <entry key="dagger2/src/main/res/layout/activity_main.xml" value="0.22871376811594202" />
         <entry key="geoquiz/src/main/res/layout/activity_cheat.xml" value="0.18490374873353596" />
         <entry key="geoquiz/src/main/res/layout/activity_main.xml" value="0.3591485507246377" />
+        <entry key="petdagger/src/main/res/layout/activity_main.xml" value="0.20052083333333334" />
       </map>
     </option>
   </component>
