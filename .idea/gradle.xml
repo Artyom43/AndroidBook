@@ -15,10 +15,12 @@
             <option value="$PROJECT_DIR$/beatbox" />
             <option value="$PROJECT_DIR$/criminalintent" />
             <option value="$PROJECT_DIR$/dagger2" />
+            <option value="$PROJECT_DIR$/draganddraw" />
             <option value="$PROJECT_DIR$/geoquiz" />
             <option value="$PROJECT_DIR$/nerdlauncher" />
             <option value="$PROJECT_DIR$/petdagger" />
             <option value="$PROJECT_DIR$/photogallery" />
+            <option value="$PROJECT_DIR$/sunset" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

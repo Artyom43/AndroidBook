@@ -5,5 +5,5 @@ import com.google.gson.annotations.SerializedName
 
 class PhotoResponse {
     @SerializedName("photo")
-    var galleryItems: List<GalleryItem> = emptyList()
+    lateinit var galleryItems: List<GalleryItem>
 }
